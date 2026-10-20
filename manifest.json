@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Monitor de Preço Amazon",
+  "version": "1.0",
+  "description": "Monitora preços na Amazon e avisa quando houver uma grande queda.",
+  "permissions": ["storage", "alarms", "notifications", "tabs"],
+  "host_permissions": ["https://www.amazon.com.br/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.amazon.com.br/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+    "128": "icon.png"
+  }
+}
