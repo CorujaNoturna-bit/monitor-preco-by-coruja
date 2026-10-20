@@ -1,6 +1,6 @@
 # 📉 Monitor de Preços Amazon
 
-Extensão para Google Chrome (Manifest V3) que monitora produtos na Amazon Brasil (`amazon.com.br`) e envia notificações automáticas no navegador sempre que detectar uma queda expressiva de preço (a partir de 15%).
+Extensão para Google Chrome (Manifest V3) que monitora produtos na Amazon e envia notificações automáticas no navegador sempre que detectar uma queda expressiva de preço.
 
 ---
 
