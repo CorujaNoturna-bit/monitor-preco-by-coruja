@@ -41,7 +41,7 @@ Como este projeto ainda não está na Chrome Web Store, instale-o no modo de des
 
 ## 🧰 Tecnologias Utilizadas
 
-- **JavaScript (Vanilla)**
+- **JS**
 - **Chrome Extension API (Manifest V3)**:
   - `chrome.alarms`
   - `chrome.notifications`
@@ -52,7 +52,14 @@ Como este projeto ainda não está na Chrome Web Store, instale-o no modo de des
 
 ## Observações
 
-- A extensão monitora apenas URLs da **Amazon Brasil** (`amazon.com.br`).
+- A extensão monitora apenas URLs da **Amazon**.
 - A captura de preços depende da estrutura de classes HTML da Amazon. Mudanças estruturais no site da Amazon podem exigir atualização dos seletores no arquivo `content.js` e `background.js`.
 
+## "A extensão não funciona"
+
+- Certifique de que o seu sistema operacional não esteja bloqueando as notificações.
+
 ## Produto em versão Alfa.
+
+- Erros são esperados 
+- Novas lojas serão adicionadas futuramente 
