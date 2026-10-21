@@ -1,10 +1,10 @@
-# 📉 Monitor de Preços Amazon
+# Monitor de Preços Amazon
 
 Extensão para Google Chrome que monitora produtos na Amazon e envia notificações automáticas no navegador sempre que detectar uma queda expressiva de preço.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - **Monitoramento:** Adicione produtos à sua lista diretamente pela aba aberta na Amazon.
 - **Checagem em segundo plano:** O script verifica os preços automaticamente a cada 60 minutos.
@@ -14,7 +14,7 @@ Extensão para Google Chrome que monitora produtos na Amazon e envia notificaç�
 
 ---
 
-## 🛠️ Como Instalar e Usar
+## Como Instalar e Usar
 
 Como este projeto ainda não está na Chrome Web Store, instale-o no modo de desenvolvedor:
 
