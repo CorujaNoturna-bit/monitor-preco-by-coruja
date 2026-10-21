@@ -41,7 +41,7 @@ Como este projeto ainda não está na Chrome Web Store, instale-o no modo de des
 
 ## 🧰 Tecnologias Utilizadas
 
-- **JavaScript (Vanilla)**
+- **JS**
 - **Chrome Extension API (Manifest V3)**:
   - `chrome.alarms`
   - `chrome.notifications`
