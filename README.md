@@ -18,18 +18,18 @@ Extensão para Google Chrome que monitora produtos na Amazon e envia notificaç�
 
 Como este projeto ainda não está na Chrome Web Store, instale-o no modo de desenvolvedor:
 
-### 1. Obtenha o código
+### 1. Instalar
 - Baixe o código clicando em **Code > Download ZIP** 
 
 ### 2. Carregue no Chrome
 1. Abra o Google Chrome e acesse: `chrome://extensions/`
 2. Ative o botão **Modo do desenvolvedor** no canto superior direito.
-3. Clique em **Carregar sem compactação** (ou *Load unpacked*).
+3. Clique em **Carregar sem compactação** 
 4. Selecione a pasta onde estão os arquivos do projeto (a pasta que contém o `manifest.json`).
 
 ---
 
-## 📖 Como Usar
+## Como Usar
 
 1. Acesse qualquer página de produto na Amazon Brasil.
 2. Clique no ícone da extensão na barra de ferramentas do Chrome.
@@ -39,7 +39,7 @@ Como este projeto ainda não está na Chrome Web Store, instale-o no modo de des
 
 ---
 
-## 🧰 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **JS**
 - **Chrome Extension API (Manifest V3)**:
